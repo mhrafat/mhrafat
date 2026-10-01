@@ -18,7 +18,11 @@ CS Undergrad @ NSU | Problem Solver | Bridging Theory & Industry Practice | AI &
 ## 📊 Contribution Metrics
 
 <p align="center">
-  <img src="./assets/contribution-metrics.svg" alt="Developer activity by percentile - days with a commit" />
+  <img src="https://ghchart.rshah.org/0366D6/mhrafat" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mhrafat&background=FFFFFF&border=D0D7DE&ring=0366D6&fire=0366D6&currStreakNum=24292F&currStreakLabel=0366D6&sideNums=24292F&sideLabels=57606A&dates=57606A" alt="GitHub Streak" />
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhrafat&bg_color=FFFFFF&color=0366D6&line=0366D6&point=0366D6&area=true&hide_border=true)
