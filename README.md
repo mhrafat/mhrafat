@@ -15,16 +15,14 @@ CS Undergrad @ NSU | Problem Solver | Bridging Theory & Industry Practice | AI &
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61587269360210)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mhrafat24_/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhrafat004@gmail.com)
-
 ## 📊 Contribution Metrics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mhrafat&background=FFFFFF&border=D0D7DE&ring=0366D6&fire=0366D6&currStreakNum=24292F&currStreakLabel=0366D6&sideNums=24292F&sideLabels=57606A&dates=57606A" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/0366D6/mhrafat" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mhrafat&show_icons=true&hide_border=false&border_color=D0D7DE&bg_color=FFFFFF&title_color=0366D6&icon_color=0366D6&text_color=24292F&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrafat&layout=compact&hide_border=false&border_color=D0D7DE&bg_color=FFFFFF&title_color=0366D6&text_color=24292F" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=mhrafat&background=FFFFFF&border=D0D7DE&ring=0366D6&fire=0366D6&currStreakNum=24292F&currStreakLabel=0366D6&sideNums=24292F&sideLabels=57606A&dates=57606A" alt="GitHub Streak" />
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhrafat&bg_color=FFFFFF&color=0366D6&line=0366D6&point=0366D6&area=true&hide_border=true)
