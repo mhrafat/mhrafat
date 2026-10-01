@@ -27,4 +27,4 @@ CS Undergrad @ NSU | Problem Solver | Bridging Theory & Industry Practice | AI &
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrafat&layout=compact&hide_border=false&border_color=D0D7DE&bg_color=FFFFFF&title_color=0366D6&text_color=24292F" alt="Top Languages" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhrafat&bg_color=FFFFFF&color=0366D6&line=0366D6&point=0366D6&area=true&area_color=0366D6&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhrafat&bg_color=FFFFFF&color=0366D6&line=0366D6&point=0366D6&area=true&hide_border=true)
