@@ -1,4 +1,4 @@
-## `At first know me`
+## `Let me introduce myself`
 
 Hi, I'm **M.H.RAFAT** 👋
 CS Undergrad @ NSU | Problem Solver | Bridging Theory & Industry Practice | AI & Data | Tech
